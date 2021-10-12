@@ -1,2 +1,2 @@
-# template-custom-stat-discord
+# template custom status discord
 PLS FORK ME darling
