@@ -8,4 +8,4 @@ async def on_connect():
 	await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="my gf", details="In My Dream", state="She's so beautiful"))
 	print("connected.")
 
-client.run("fill me up baby", bot=False)
+client.run("fill me up with your token baby... (｡>﹏<｡)", bot=False)
